@@ -1,0 +1,181 @@
+# Item localizations
+item.Blank Talisman.name=空白护符
+item.Light Talisman.name=光之护符
+item.Flame Talisman.name=火之护符
+item.Water Talisman.name=水之护符
+item.Movement Talisman.name=移动护符
+item.Mining Talisman.name=挖掘护符
+item.Invisible Talisman.name=隐身护符
+item.Witherless Talisman.name=凋零免疫护符
+item.Crafting Talisman.name=工艺护符
+item.Magnet Talisman.name=磁力护符
+
+item.Talisman Ring.Blank.name=普通指环
+item.Talisman Ring.Crafting.name=工艺指环
+item.Talisman Ring.Flame.name=火之指环
+item.Talisman Ring.Invisible.name=隐身指环
+item.Talisman Ring.Light.name=光之指环
+item.Talisman Ring.Mining.name=挖掘指环
+item.Talisman Ring.Movement.name=移动指环
+item.Talisman Ring.Water.name=水下指环
+item.Talisman Ring.Witherless.name=凋零免疫指环
+
+item.Blood Light Talisman.name=血煞光之护符
+item.Blood Invisible Talisman.name=血煞隐身护符
+item.Blood Movement Talisman.name=血煞移动护符
+item.Blood Witherless Talisman.name=血煞凋零免疫护符
+item.Blood Mining Talisman.name=血煞挖掘护符
+item.Blood Water Talisman.name=血煞水之护符
+item.Blood Flame Talisman.name=血煞火之护符
+item.Blood Crafting Talisman.name=血煞工艺护符
+item.Blank Blood Talisman.name=空白血煞护符
+
+
+# Creative Tab localizations
+itemGroup.Talismans 2=护符工艺2
+
+# KeyBinding 
+keys.Talismans.category=护符工艺2
+keys.Talismans.craft=便携手工制品
+
+# Thaumcraft Tab localizations
+tc.research_category.Talismans=护符工艺2
+
+
+# Thaumcraft Research localizations
+tc.research_name.Flame_Talisman=火之护符
+tc.research_name.Blank_Talisman=空白护符
+tc.research_name.Water_Talisman=水之护符
+tc.research_name.Light_Talisman=光之护符
+tc.research_name.Movement_Talisman=移动护符
+tc.research_name.Mining_Talisman=挖掘护符
+tc.research_name.Invisible_Talisman=隐身护符
+tc.research_name.Witherless_Talisman=凋零免疫护符
+tc.research_name.Fusion=护符注魔
+tc.research_name.Light_Ring=光之指环
+tc.research_name.Movement_Ring=移动指环
+tc.research_name.Mining_Ring=挖掘指环
+tc.research_name.Blank_Ring=普通指环
+tc.research_name.Flame_Ring=火之指环
+tc.research_name.Water_Ring=水之指环
+tc.research_name.Invisible_Ring=隐身指环
+tc.research_name.Witherless_Ring=凋零免疫指环
+
+tc.research_name.Thanks=感谢我的支持者们
+
+
+# Thaumcraft Research Text localizations
+tc.research_text.Flame_Talisman=岩浆？岩浆算什么？
+tc.research_text.Blank_Talisman=迈入护符世界的第一步
+tc.research_text.Water_Talisman=和鱿鱼一样。
+tc.research_text.Light_Talisman=像蝙蝠一样不会失明。
+tc.research_text.Movement_Talisman=跑得跟神经病一样快。
+tc.research_text.Mining_Talisman=让矮人族都自愧不如。
+tc.research_text.Invisible_Talisman=海底总动员（寻找尼莫）。
+tc.research_text.Witherless_Talisman=万金油。
+tc.research_text.Fusion=让护符潮起来.
+tc.research_text.Light_Ring=All the better to see you with my dear
+tc.research_text.Movement_Ring=RUN FORREST RUN!
+tc.research_text.Mining_Ring=小心得黑肺病!
+tc.research_text.Blank_Ring=为什么?
+tc.research_text.Flame_Ring=记住,关键词是, "那不是你"
+tc.research_text.Water_Ring=需要鱿鱼吗?!
+tc.research_text.Invisible_Ring=把戒指取下来，弗罗多
+tc.research_text.Witherless_Ring=管他什么凋零!
+
+tc.research_text.Thanks=感谢我的支持者们
+
+#ConfigGUI Text
+tm2.configgui.category.tmLoot=允许或禁止护符
+tm2.configgui.category.tmRecipes=制作配方变化
+tm2.configgui.category.tmTC=神秘时代联动
+tm2.configgui.category.tmBloodMagic=血魔法联动
+tm2.configgui.category.tmGeneral=生成几率
+
+tm2.configgui.category.tmLoot.tooltip=改变某种护符的生成率
+tm2.configgui.category.tmRecipes.tooltip=改变制作方法
+tm2.configgui.category.tmThaumcraft.tooltip=允许或禁止联动
+tm2.configgui.category.tmBloodMagic.tooltip=允许或禁止联动
+tm2.configgui.category.tmGeneral.tooltip=允许或禁止某种护符
+
+
+# Thaumcraft Thaumonomicon Text localizations
+PAGE_BLANK_TALISMAN=经过试验和意外事故之后你发现了一种运用奥术石材的方法。在坩埚中浸泡它会使它转变为一个圆盘状，这使它能够通过注魔得到许多有用的能力。你决定称之为护符。
+PAGE_FLAME_TALISMAN=将火之源质聚集入空白护符就会产生这种变异。火之护符给予持有者了对所有火焰的免疫能力。如果你决定去地狱深处探险一定要记得带着它。
+PAGE_WATER_TALISMAN=将水之源质注入空白护符，护符就有让生物适应环境的能力。这个护符赐予了水下呼吸的能力。
+PAGE_LIGHT_TALISMAN=一次你试图找寻保持隐身的方法，意外的发现了这种注魔。这种注魔让你能在黑暗中视物。你不再害怕黑暗，因为你能看见什么东西潜伏在其中。
+PAGE_MOVEMENT_TALISMAN=是否想过要跑得更快?跳得更高?正好你能用这个发明实现这点。移动护符能让你的跑酷梦成真。
+PAGE_MINING_TALISMAN=在很多次失败并且浪费了很多资源之后，你发现了一种能增强你挖掘能力的护符注魔。现在所有矿石都将是你的了，只是不要挖得太深，因为你不知道究竟有什么在世界底部等着你。
+PAGE_INVISIBLE_TALISMAN=通过向空白护符注入光和镜子的反射特性后，你做出了一种能够偏转持有者身边光线的护符。合理运用它。
+PAGE_WITHERLESS_TALISMAN=向空白护符中注入牛奶的治疗能力值得护符能够清除任何负面状态。现在凋零应该颤抖了。
+PAGE_FUSION_RESEARCH=在你作为神秘使的研究中你发现了制作魔法饰品的方法。在你对护符的研究不断取得进展时你才突然想起。为什么我不把护符的能力与戒指或腰带结合呢?在几晚的实验之后你发现了这种结合的秘诀。 你先可以把平凡指环和腰带与护符结合。
+PAGE_LIGHT_RING=这个指环戴在手指上会有和光之护符一样的能力。
+PAGE_MOVEMENT_RING=这个指环戴在手指上会有和移动护符一样的能力。
+PAGE_MINING_RING=这个指环戴在手指上会有和挖掘护符一样的能力。
+PAGE_BLANK_RING=为什么你曾讨厌戴着这个?
+PAGE_FLAME_RING=无论你戴在哪根手指上它都能赐予你抵抗火焰的能力。
+PAGE_WATER_RING=戴着这个指环时，只要你有vis就能一直待在水下。
+PAGE_INVISIBLE_RING=戴着这个能让你一直保持隐身。
+PAGE_WITHERLESS_RING=这个指环戴在手指上会有和凋零免疫护符一样的能力。不用再害怕凋零状态。
+
+PAGE_THANKS_RESEARCH=这只是我对所有支持我和我mod的人的致谢。                               CyborgShadow (Brandon)                                               Necrogami
+
+#Botania Lexica localizations
+KEY_BOTANIA_LEXICA_CATERGORY=护符
+botania.entry.blankTalisman=空白护符
+botania.entry.flameTalisman=魔力火之护符
+botania.entry.lightTalisman=魔力光之护符
+botania.entry.miningTalisman=魔力挖掘护符
+botania.entry.movementTalisman=魔力移动护符
+botania.entry.waterTalisman=魔力水之护符
+
+botania.page.blankTalisman0=空白护符是制作所有护符的组件。
+botania.page.blankTalisman1=空白护符合成
+botania.page.flameTalisman0=魔力火之护符会消耗魔力让持有者免疫火焰伤害。
+botania.page.flameTalisman1=魔力火之护符合成
+botania.page.lightTalisman0=魔力光之护符会消耗魔力让持有者能在黑暗和水下视物。
+botania.page.lightTalisman1=魔力光之护符合成
+botania.page.miningTalisman0=魔力挖掘护符会消耗魔力让持有者加快挖掘速度。
+botania.page.miningTalisman1=魔力挖掘护符合成
+botania.page.movementTalisman0=魔力移动护符会消耗魔力让持有者跑得更快，跳得更高。
+botania.page.movementTalisman1=魔力空白护符合成
+botania.page.waterTalisman0=魔力移动护符会消耗魔力让持有者获得水下呼吸的能力。
+botania.page.waterTalisman1=魔力水之护符合成
+
+
+item.mana_talisman_flame.name=魔力火之护符
+item.mana_talisman_water.name=魔力水之护符
+item.mana_talisman_movement.name=魔力移动护符
+item.mana_talisman_invisible.name=魔力隐身护符
+item.mana_talisman_mining.name=魔力挖掘护符
+item.mana_talisman_light.name=魔力光之护符
+
+toolTip1item.mana_talisman_flame=汲取魔力让持有者抗火。
+toolTip1item.mana_talisman_water=汲取魔力让持有者水下呼吸。
+toolTip1item.mana_talisman_movement=汲取魔力让持有者跑得更快跳得更高。
+toolTip1item.mana_talisman_invisible=汲取魔力让持有者保持隐身。
+toolTip1item.mana_talisman_mining=汲取魔力让持有者保持急迫。
+toolTip1item.mana_talisman_light=汲取魔力让持有者保持夜视。
+
+#ToolTips
+Talismans 2toolTipShift=按住Shift查看提示信息
+
+toolTip1item.Flame Talisman=装备时给持有者抗火。
+toolTip1item.Water Talisman=装备时给持有者水下呼吸。
+toolTip1item.Light Talisman=装备时给持有者夜视。
+toolTip1item.Movement Talisman=装备时给持有者速度和跳跃提升。
+toolTip1item.Mining Talisman=装备时给持有者急迫。
+toolTip1item.Invisible Talisman=装备时给持有者隐身。
+toolTip1item.Witherless Talisman=装备时让持有者免疫凋零状态。
+toolTip1item.Magnet Talisman=装备时让持有者吸引周围的掉落物。
+toolTip1item.Crafting Talisman=WIP.
+
+toolTip1item.Talisman Ring.Blank=普通指环.
+toolTip1item.Talisman Ring.Flame=装备时给持有者抗火。
+toolTip1item.Talisman Ring.Water=装备时给持有者水下呼吸。
+toolTip1item.Talisman Ring.Light=装备时给持有者夜视。
+toolTip1item.Talisman Ring.Movement=装备时给持有者速度和跳跃提升。
+toolTip1item.Talisman Ring.Mining=装备时给持有者急迫。
+toolTip1item.Talisman Ring.Invisible=装备时给持有者隐身。
+toolTip1item.Talisman Ring.Witherless=装备时让持有者免疫凋零状态。
+toolTip1item.Talisman Ring.Crafting=WIP.
